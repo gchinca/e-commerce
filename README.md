@@ -2,6 +2,8 @@
 
 ¡Hola! 👋 Bienvenido a mi proyecto de análisis de clientes de comercio electrónico. En este proyecto, utilizamos técnicas de análisis de datos para entender mejor a los clientes y cómo interactúan con el negocio en línea.
 
+Fuente de datos: https://www.kaggle.com/datasets/datacertlaboratoria/proyecto-3-segmentacin-de-clientes-en-ecommerce
+
 ## 🎯 Objetivo del Proyecto
 
 El objetivo de este proyecto es analizar el comportamiento de los clientes en diferentes países utilizando técnicas como el análisis de cohortes y la segmentación RFM (Recency, Frequency, Monetary).
